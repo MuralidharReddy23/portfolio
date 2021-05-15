@@ -212,9 +212,9 @@ section .title::after{
 }
 
 /* about section styling */
-/*.about .title::after{
-    content: "who i am";
-}*/
+.about .title::after{
+    content: " i am";
+}
 .about .about-content .left{
     width: 45%;
 }
