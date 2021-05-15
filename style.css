@@ -215,6 +215,10 @@ section .title::after{
 .about .title::after{
    
 }
+.about{
+    background-color:skyblue;
+}
+    
 .about .about-content .left{
     width: 45%;
 }
